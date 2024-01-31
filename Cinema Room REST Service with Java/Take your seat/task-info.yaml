@@ -230,6 +230,14 @@ files:
           };
       }
     learner_created: false
-feedback_link: https://hyperskill.org/projects/189/stages/946/implement#comment
-status: Unchecked
+feedback_link: https://hyperskill.org/learn/step/13376#comment
+status: Failed
+feedback:
+  message: |-
+    Exception in test #1
+
+    Cannot start Spring application
+
+    org.springframework.context.ApplicationContextException: Failed to start bean &#39;webServerStartStop&#39;
+  time: "Tue, 30 Jan 2024 18:16:43 UTC"
 record: -1
